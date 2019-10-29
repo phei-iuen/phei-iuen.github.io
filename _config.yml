@@ -3,3 +3,5 @@ theme: jekyll-theme-minimal
 title: 'Peiyuan Zhang'
 subtitle: 'zhangp@student.ethz.ch'
 
+github:
+  is_project_page: false
