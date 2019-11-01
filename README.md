@@ -8,7 +8,7 @@ I am interested in topics including
 
 <br/>
 ### Publication and preprints
-* [Mixing of Stochastic Accelerated Gradient Descent](https://arxiv.org/) 
+* [Mixing of Stochastic Accelerated Gradient Descent](https://arxiv.org/abs/1910.14616)
 
 <br/>
 ### Projects
