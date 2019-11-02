@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
 
 title: 'Peiyuan Zhang'
+show_downloads: false
 description: 'zhangp@student.ethz.ch'
+
 
 github:
   is_project_page: false
