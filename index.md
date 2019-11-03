@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="V00AON77pPakhvCHyr-oxQ0sTKSI0gKwF9U9WJg7Gy8" />
-
 ---
 layout: default
 ---
