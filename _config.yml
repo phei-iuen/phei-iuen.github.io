@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: Peiyuan Zhang
 description: zhangp@student.ethz.ch
 
@@ -6,3 +7,14 @@ google_analytics:
 theme: jekyll-theme-minimal
 
 lang: zh
+=======
+theme: jekyll-theme-minimal
+
+title: 'Peiyuan Zhang'
+show_downloads: false
+description: 'zhangp@student.ethz.ch'
+
+
+github:
+  is_project_page: false
+>>>>>>> 016c8626842cc8d44fd7bd12af08ef86c6603cc6
