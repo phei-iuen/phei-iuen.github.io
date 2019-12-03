@@ -8,7 +8,7 @@ I am interested in topics including 1) optimization in machine learning and 2) d
 
 <br/><br/>
 ### Publication
-
+* Linear Gradient Extrapolation Dynamics Approximates Accelerated Gradient Methods, as preprint.
 * [Mixing of Stochastic Accelerated Gradient Descent](https://arxiv.org/abs/1910.14616), as preprint.
 
 <br/><br/>
