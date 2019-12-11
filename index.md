@@ -31,7 +31,7 @@ I love classical music, especially of Baroque era. J.S.Bach, A.Caldara and A.Has
 
 I am crazy fan of both Chinese Kunqu opera and western opera.
 
-I know Mandarin Chinese, Wu Chinese, English, latin and some ancient Greek. If possible, I would like to learn more about Greek and Akkadian.
+I know Mandarin Chinese, English, latin and some ancient Greek. If possible, I would like to learn more about Greek and Akkadian.
 
 It was once my dream to major in paryrology, epigraphy or old Chinese phonology.
 
