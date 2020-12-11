@@ -4,11 +4,11 @@ layout: default
 
 Currently I am a master student in **Electrical Engineering and Information Technology** at **ETH Zurich**.  I received my B.Eng in **Automation** from **Xi'an Jiaotong University**. 
 
-I am interested in topics including 1) optimization in machine learning and 2) dynamics of gradient algorithms.
+I am interested in topics including 1) optimization in machine learning and 2) dynamics of gradient algorithms. For more details, see my [CV](pdf/cv.pdf). 
 
 <br/><br/>
 ### Publication and preprints
-* A Generalized Model for the Analysis of Momentum Methods in Convex Optimization, as preprint.
+* [A Generalized Model for the Analysis of Momentum Methods in Convex Optimization](pdfs/revisiting.pdf), as preprint.
 * [Mixing of Stochastic Accelerated Gradient Descent](pdfs/mixing.pdf), as preprint.
 
 <br/><br/>
