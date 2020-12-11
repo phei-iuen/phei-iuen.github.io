@@ -9,7 +9,7 @@ I am interested in topics including 1) optimization in machine learning and 2) d
 <br/><br/>
 ### Publication and preprints
 * A Generalized Model for the Analysis of Momentum Methods in Convex Optimization, as preprint.
-* [Mixing of Stochastic Accelerated Gradient Descent](![](pdfs/mixing.pdf)), as preprint.
+* [Mixing of Stochastic Accelerated Gradient Descent](pdfs/mixing.pdf), as preprint.
 
 <br/><br/>
 ### Education
