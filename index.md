@@ -4,7 +4,7 @@ layout: default
 
 Currently I am a master student in **Electrical Engineering and Information Technology** at **ETH Zurich**.  I received my B.Eng in **Automation** from **Xi'an Jiaotong University**. 
 
-I am interested in topics including 1) optimization in machine learning and 2) dynamics of gradient algorithms. For more details, see my [CV](pdf/cv.pdf). 
+I am interested in topics including 1) optimization in machine learning and 2) dynamics of gradient algorithms. For more details, see my [CV](pdf/CV.pdf). 
 
 <br/><br/>
 ### Publication and preprints
