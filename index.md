@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Currently I am a master student in **Electrical Engineering and Information Technology** at **ETH Zurich**.  I received my B.Eng in **Automation** from **Xi'an Jiaotong University**. 
+I just finished my master study in **Electrical Engineering and Information Technology** at **ETH Zurich**.  I received my B.Eng. in **Automation** from **Xi'an Jiaotong University**. 
 
 I am interested in topics including 1) optimization in machine learning and 2) dynamics of gradient algorithms. For more details, see my [CV](pdfs/CV.pdf). 
 
@@ -16,11 +16,11 @@ I am interested in topics including 1) optimization in machine learning and 2) d
 
 * ETH Zurich  
 *2017 - 2020*  
-MSc in Electrical Engineering and Information Technology
+M.Sc. in Electrical Engineering and Information Technology
 
 * Xi'an Jiaotong University  
 *2013 - 2017*   
-BEng in Automation
+B.Eng. in Automation
 
 
 <br/><br/>
@@ -31,7 +31,7 @@ I love classical music, especially of Baroque era. J.S.Bach, A.Caldara and A.Has
 
 I am crazy fan of both Chinese Kunqu opera and western opera.
 
-I know Mandarin Chinese, English, latin and some ancient Greek. If possible, I would like to learn more about Greek and Akkadian.
+I know Mandarin Chinese, English, latin and some ancient Greek. If possible, I would like to learn more about other Sino-tibetan and Akkadian languages.
 
 It was once my dream to major in paryrology, epigraphy or old Chinese phonology.
 
