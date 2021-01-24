@@ -8,7 +8,7 @@ I am interested in topics including 1) optimization in machine learning and 2) d
 
 <br/><br/>
 ### Publication and preprints
-* [Revisiting the Role of Euler Numerical Integration on Accelerationand Stability in Convex Optimization](pdfs/revisiting.pdf), AISTATS 2021.
+* [Revisiting the Role of Euler Numerical Integration on Acceleration and Stability in Convex Optimization](pdfs/revisiting.pdf), AISTATS 2021.
 * [Mixing of Stochastic Accelerated Gradient Descent](pdfs/mixing.pdf), as arxiv preprint.
 
 <br/><br/>
