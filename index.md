@@ -6,6 +6,8 @@ I just finished my master study in **Electrical Engineering and Information Tech
 
 I am interested in topics including 1) optimization in machine learning and 2) dynamics of gradient algorithms. For more details, see my [CV](pdfs/CV.pdf). 
 
+
+<br/><br/>
 ### Publication
 * [Revisiting the Role of Euler Numerical Integration on Acceleration and Stability in Convex Optimization](https://arxiv.org/abs/2102.11537), AISTATS 2021.
 
