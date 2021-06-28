@@ -12,7 +12,7 @@ I am interested in topics including 1) optimization in machine learning and 2) d
 * [Revisiting the Role of Euler Numerical Integration on Acceleration and Stability in Convex Optimization](https://arxiv.org/abs/2102.11537), AISTATS 2021.
 
 ### Preprints and scripts
-* Rethinking the Variational Interpretation of Nesterov's Accelerated Method, as preprint
+* [Rethinking the Variational Interpretation of Nesterov's Accelerated Method](pdfs/rethinking.pdf), as preprint.
 * An Efficient Full-matrix Adaptive Gradient Method with Approximate Rank-one Update, as preprint.
 * [Mixing of Stochastic Accelerated Gradient Descent](https://arxiv.org/abs/1910.14616), as preprint.
 
