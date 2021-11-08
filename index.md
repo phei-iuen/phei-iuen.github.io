@@ -10,7 +10,7 @@ I am interested in topics including 1) optimization in machine learning and 2) d
 <br/><br/>
 ### Publication
 * [Rethinking the Variational Interpretation of Nesterov's Accelerated Method](https://arxiv.org/abs/2107.05040), NeurIPS 2021. 
-  <br /> Peiyuan Zhang*, ANtonio Orvieto*, Hadi Daneshmand
+  <br /> Peiyuan Zhang\*, Antonio Orvieto\*, Hadi Daneshmand
 * [Revisiting the Role of Euler Numerical Integration on Acceleration and Stability in Convex Optimization](https://arxiv.org/abs/2102.11537), AISTATS 2021. 
   <br /> Peiyuan Zhang, Antonio Orvieto, Hadi Daneshmand, Roy Smith, Thomas Hofmann
   
