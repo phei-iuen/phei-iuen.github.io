@@ -19,11 +19,9 @@ I am interested in topics including 1) optimization in machine learning and 2) d
 ### Education
 
 * ETH Zurich  
-*2017 - 2020*  
 M.Sc. in Electrical Engineering and Information Technology
 
-* Xi'an Jiaotong University  
-*2013 - 2017*   
+* Xi'an Jiaotong University   
 B.Eng. in Automation
 
 
