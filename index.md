@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a PhD student at **Yale University**. I finished my master study in **Electrical Engineering and Information Technology** at **ETH Zurich**.  I received my B.Eng. in **Automation** from **Xi'an Jiaotong University**. 
+I am currently a PhD student at **Yale University**. I finished my master study in Electrical Engineering and Information Technology at **ETH Zurich**.  I received my B.Eng. in Automation from **Xi'an Jiaotong University**. 
 
 <br/><br/>
 
