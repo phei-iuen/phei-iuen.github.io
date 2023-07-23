@@ -27,6 +27,6 @@ I am currently a PhD student at **Yale University**. I finished my master study 
  
 * [**<span style="color:#520099">Lower Generalization Bounds for GD and SGD in Smooth Stochastic Convex Optimization</span>**](https://arxiv.org/abs/2303.10758) <br />
   Peiyuan Zhang, Jiaye Teng, Jingzhao Zhang <br />
-  Under review
+  Under JMLR review
 
 
