@@ -22,7 +22,7 @@ I am currently a PhD student at **Yale University**. I finished my master study 
   
 ### Preprints and scripts
 * [**Online Algorithms and Lower Bounds for Average-Case Matrix Discrepancy**](https://arxiv.org/abs/2307.10055) <br />
-  Dmitriy Kunisky, Peiyuan Zhang （alphabetical ordering) <br />
+  Dmitriy Kunisky, Peiyuan Zhang (alphabetical ordering) <br />
   **Under review**
  
 * [**Lower Generalization Bounds for GD and SGD in Smooth Stochastic Convex Optimization**](https://arxiv.org/abs/2303.10758) <br />
