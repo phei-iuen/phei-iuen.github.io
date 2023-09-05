@@ -5,7 +5,7 @@ layout: default
 I am currently a PhD student at **Yale University**. I finished my master study in Electrical Engineering and Information Technology at **ETH Zurich**.  I received my B.Eng. in Automation from **Xi'an Jiaotong University**. 
 
 <br/><br/>
-
+[Link to another page](./another-page.html)
 ### Journal Publications
 * [**<span style="color:#520099">Sion's Minimax Theorem in Geodesic Metric Spaces and a Riemannian Extragradient Algorithm</span>**](https://arxiv.org/abs/2202.06950) <br />
   Peiyuan Zhang, Jingzhao Zhang, Suvrit Sra <br />
