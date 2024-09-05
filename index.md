@@ -6,15 +6,15 @@ I am currently a PhD student at **Yale University**. I finished my master study 
 
 <br/><br/>
 ### Journal Publications
-* [**<span style="color:#520099">Counting Stars is Constant-Degree Optimal For Detecting Any Planted Subgraph</span>**](https://arxiv.org/pdf/2403.17766) <br />
-  Xifan Yu, Ilias Zadik, Peiyuan Zhang (alphabetical ordering) <br />
-  COLT 2024
-
 * [**<span style="color:#520099">Sion's Minimax Theorem in Geodesic Metric Spaces and a Riemannian Extragradient Algorithm</span>**](https://arxiv.org/abs/2202.06950) <br />
   Peiyuan Zhang, Jingzhao Zhang, Suvrit Sra <br />
   SIAM Journal on Optimization
 
 ### Conference Publications
+* [**<span style="color:#520099">Counting Stars is Constant-Degree Optimal For Detecting Any Planted Subgraph</span>**](https://arxiv.org/pdf/2403.17766) <br />
+  Xifan Yu, Ilias Zadik, Peiyuan Zhang (alphabetical ordering) <br />
+  COLT 2024
+
 * [**<span style="color:#520099">Rethinking the Variational Interpretation of Nesterov's Accelerated Method</span>**](https://arxiv.org/abs/2107.05040) <br />
   Peiyuan Zhang, Antonio Orvieto, Hadi Daneshmand <br />
   NeurIPS 2021
