@@ -24,12 +24,16 @@ I am currently a PhD student at **Yale University**. I finished my master study 
   AISTATS 2021
 
 ### Preprints and scripts
+* [**<span style="color:#520099">Criteria and Bias of Parameterized Linear Regression under Edge of Stability Regime</span>**](https://arxiv.org/abs/2303.10758) <br />
+  Peiyuan Zhang, Amin Karbasi <br />
+  Under review
+
 * [**<span style="color:#520099">Online Algorithms and Lower Bounds for Average-Case Matrix Discrepancy</span>**](https://arxiv.org/abs/2307.10055) <br />
   Dmitriy Kunisky, Peiyuan Zhang (alphabetical ordering) <br />
   Under RSA review
  
 * [**<span style="color:#520099">Lower Generalization Bounds for GD and SGD in Smooth Stochastic Convex Optimization</span>**](https://arxiv.org/abs/2303.10758) <br />
   Peiyuan Zhang, Jiaye Teng, Jingzhao Zhang <br />
-  Under JMLR review
+  Under review
 
 
