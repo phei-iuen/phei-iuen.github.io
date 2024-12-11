@@ -15,7 +15,7 @@ I am currently a PhD student at **Yale University**. I finished my master study 
   Xifan Yu, Ilias Zadik, Peiyuan Zhang (alphabetical ordering) <br />
   COLT 2024
 
-* **<span style="color:#520099">Rethinking the Variational Interpretation of Nesterov's Accelerated Method</span>**(https://arxiv.org/abs/2107.05040) <br />
+* [**<span style="color:#520099">Rethinking the Variational Interpretation of Nesterov's Accelerated Method</span>**](https://arxiv.org/abs/2107.05040) <br />
   Peiyuan Zhang, Antonio Orvieto, Hadi Daneshmand <br />
   NeurIPS 2021
   
