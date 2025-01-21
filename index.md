@@ -28,7 +28,7 @@ I am currently a PhD student at **Yale University**. I finished my master study 
   AISTATS 2021
 
 ### Preprints and scripts
-* **<span style="color:#520099">Criteria and Bias of Parameterized Linear Regression under Edge of Stability Regime</span>** <br />
+* [**<span style="color:#520099">Criteria and Bias of Parameterized Linear Regression under Edge of Stability Regime</span>**](https://arxiv.org/abs/2412.08025) <br />
   Peiyuan Zhang, Amin Karbasi <br />
   Under review
 
