@@ -11,6 +11,10 @@ I am currently a PhD student at **Yale University**. I finished my master study 
   SIAM Journal on Optimization
 
 ### Conference Publications
+* [**<span style="color:#520099">Lower Generalization Bounds for GD and SGD in Smooth Stochastic Convex Optimization</span>**](https://arxiv.org/abs/2303.10758) <br />
+  Peiyuan Zhang, Jiaye Teng, Jingzhao Zhang <br />
+  AISTATS 2025
+  
 * [**<span style="color:#520099">Counting Stars is Constant-Degree Optimal For Detecting Any Planted Subgraph</span>**](https://arxiv.org/pdf/2403.17766) <br />
   Xifan Yu, Ilias Zadik, Peiyuan Zhang <br />
   COLT 2024
@@ -32,8 +36,6 @@ I am currently a PhD student at **Yale University**. I finished my master study 
   Dmitriy Kunisky, Peiyuan Zhang <br />
   Under RSA review
  
-* [**<span style="color:#520099">Lower Generalization Bounds for GD and SGD in Smooth Stochastic Convex Optimization</span>**](https://arxiv.org/abs/2303.10758) <br />
-  Peiyuan Zhang, Jiaye Teng, Jingzhao Zhang <br />
-  Under review
+
 
 
