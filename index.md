@@ -16,7 +16,7 @@ I am currently a PhD student at **Yale University**. I finished my master study 
   AISTATS 2025
   
 * [**<span style="color:#520099">Counting Stars is Constant-Degree Optimal For Detecting Any Planted Subgraph</span>**](https://arxiv.org/pdf/2403.17766) <br />
-  Xifan Yu, Ilias Zadik, Peiyuan Zhang <br />
+  Xifan Yu*, Ilias Zadik*, Peiyuan Zhang* <br />
   COLT 2024
 
 * [**<span style="color:#520099">Rethinking the Variational Interpretation of Nesterov's Accelerated Method</span>**](https://arxiv.org/abs/2107.05040) <br />
@@ -33,8 +33,10 @@ I am currently a PhD student at **Yale University**. I finished my master study 
   Under review
 
 * [**<span style="color:#520099">Online Algorithms and Lower Bounds for Average-Case Matrix Discrepancy</span>**](https://arxiv.org/abs/2307.10055) <br />
-  Dmitriy Kunisky, Peiyuan Zhang <br />
+  Dmitriy Kunisky*, Peiyuan Zhang* <br />
   Under RSA review
+
+  (* marks alphabetical ordering)
  
 
 
