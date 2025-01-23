@@ -33,7 +33,7 @@ I am currently a PhD student at **Yale University**. I finished my master study 
   Under review
 
 * [**<span style="color:#520099">Online Algorithms and Lower Bounds for Average-Case Matrix Discrepancy</span>**](https://arxiv.org/abs/2307.10055) <br />
-  Dmitriy Kunisky*, Peiyuan Zhang* <br />
+  Dmitriy Kunisky* , Peiyuan Zhang* <br />
   Under RSA review
 
   (* marks alphabetical ordering)
