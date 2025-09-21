@@ -12,7 +12,7 @@ I am currently a PhD student at **Yale University**. I finished my master study 
 
 ### Conference Publications
 * [**<span style="color:#520099">An Optimized Franz-Parisi Criterion and its Equivalence with SQ Lower Bounds</span>**](https://arxiv.org/abs/2506.06259) <br />
-  Siyu Chen*, Theodor Misiakiewicz*, Ilias Zadik*, Peiyuan Zhang* <br />
+  Siyu Chen* , Theodor Misiakiewicz* , Ilias Zadik* , Peiyuan Zhang* <br />
   NeurIPS 2025 Oral
   
 
